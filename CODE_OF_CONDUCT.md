@@ -16,17 +16,6 @@ Participation is expected to be constructive and considerate.
 - Share only information you are authorized to disclose.
 - Help keep technical discussions focused, safe, and welcoming to good-faith contributors.
 
-## Unacceptable Behavior
-
-Examples include:
-- Harassment, threats, intimidation, discrimination, or personal attacks.
-- Hate speech, sexual harassment, or deliberately humiliating conduct.
-- Publishing another person's private information without permission.
-- Sharing credentials, private client information, or confidential investigation material.
-- Misrepresenting authorization, findings, authorship, or project status.
-- Encouraging or conducting unauthorized access, testing, disruption, or data extraction.
-- Repeated disruptive behavior or deliberate interference with project work.
-
 ## Scope
 
 This Code applies to participation in KAYVRA-managed GitHub spaces and to situations where someone is representing a KAYVRA project or team.
